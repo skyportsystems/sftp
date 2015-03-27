@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/sftp (fetch)
+origin	git@github.com:skyportsystems/sftp (push)
+upstream	https://github.com/pkg/sftp.git (fetch)
+upstream	https://github.com/pkg/sftp.git (push)
